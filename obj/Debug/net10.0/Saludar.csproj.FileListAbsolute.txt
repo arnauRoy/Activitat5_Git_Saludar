@@ -1,0 +1,14 @@
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/bin/Debug/net10.0/Saludar
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/bin/Debug/net10.0/Saludar.deps.json
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/bin/Debug/net10.0/Saludar.runtimeconfig.json
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/bin/Debug/net10.0/Saludar.dll
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/bin/Debug/net10.0/Saludar.pdb
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/obj/Debug/net10.0/Saludar.GeneratedMSBuildEditorConfig.editorconfig
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/obj/Debug/net10.0/Saludar.AssemblyInfoInputs.cache
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/obj/Debug/net10.0/Saludar.AssemblyInfo.cs
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/obj/Debug/net10.0/Saludar.csproj.CoreCompileInputs.cache
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/obj/Debug/net10.0/Saludar.dll
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/obj/Debug/net10.0/refint/Saludar.dll
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/obj/Debug/net10.0/Saludar.pdb
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/obj/Debug/net10.0/Saludar.genruntimeconfig.cache
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM8/Activitat5/PartGrupal/codi/Saludar/obj/Debug/net10.0/ref/Saludar.dll
